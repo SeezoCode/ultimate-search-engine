@@ -1,0 +1,3 @@
+[submodule "search-manager"]
+	path = search-manager
+	url = https://github.com/SeezoCode/search-manager
