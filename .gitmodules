@@ -7,3 +7,6 @@
 [submodule "crawler"]
 	path = crawler
 	url = https://github.com/SeezoCode/search-engine-crawler
+[submodule "suggester"]
+	path = suggester
+	url = https://github.com/Exanys/SearchEngineBackend
